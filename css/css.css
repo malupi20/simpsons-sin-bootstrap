@@ -1,0 +1,55 @@
+*{ box-sizing: border-box;}
+
+body {margin: 20;
+    padding: 0;
+    background-color: rgb(227, 241, 75);
+}
+nav{
+    background-color: rgb(251, 255, 0);
+   padding: 15px;
+   margin: 5px;
+   border-radius: 10px;
+   justify-content: center;
+}
+nav a{
+    font-size: 40px;
+    font-style: inherit;
+    background-color: rgb(64, 143, 252);
+    padding:5px 14px;
+    margin: 10px;
+    border-radius: 30px;
+    color: rgb(255, 255, 255);
+    
+    text-decoration: none;
+}
+.contenedor1{
+   padding: 5px 40px;
+}
+.contenedor1 img{
+    padding: 10px;
+}
+
+.contenedorhom{ display: flex;
+    padding: 5px 40px;
+    font-size: 200%;
+}
+
+.contenedormar{ display: flex;
+    padding: 5px 40px;
+    font-size: 200%;
+}
+
+.contenedorbar{ display: flex;
+    padding: 5px 40px;
+    font-size: 200%;
+}
+
+.contenedorlis{ display: flex;
+    padding: 5px 40px;
+    font-size: 200%;
+}
+
+.contenedormagg{ display: flex;
+    padding: 5px 40px;
+    font-size: 200%;
+}
